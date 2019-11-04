@@ -1,5 +1,6 @@
 # National-Nursing-Home-Analysis
 
+Work in Progress: 
 Using data from data.medicare.gov/ I am examining National CMS Nursing Home Compare datasets.  
 I am looking at trends in health deficiencies nationally and locally here in Chicago.
 
