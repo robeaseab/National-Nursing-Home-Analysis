@@ -1,0 +1,58 @@
+Feature,Importance
+Number of Certified Beds,0.026747708537745947
+Average Number of Residents Per Day,0.033342358125584365
+Overall Rating,0.005725780223158798
+Health Inspection Rating,0.027454351491866907
+QM Rating,0.010992284384945926
+Long-Stay QM Rating,0.00943103006823942
+Short-Stay QM Rating,0.01219861308372279
+Staffing Rating,0.00939368539732824
+RN Staffing Rating,0.0078909736976309
+Reported Nurse Aide Staffing Hours per Resident per Day,0.01912022059331423
+Reported LPN Staffing Hours per Resident per Day,0.028533147495101142
+Reported RN Staffing Hours per Resident per Day,0.029933898385696787
+Reported Licensed Staffing Hours per Resident per Day,0.023171187752975015
+Reported Total Nurse Staffing Hours per Resident per Day,0.021187794174120818
+Reported Physical Therapist Staffing Hours per Resident Per Day,0.0220502617493479
+Case-Mix Nurse Aide Staffing Hours per Resident per Day,0.026304811025177947
+Case-Mix LPN Staffing Hours per Resident per Day,0.02782627394800661
+Case-Mix RN Staffing Hours per Resident per Day,0.027466109256294908
+Case-Mix Total Nurse Staffing Hours per Resident per Day,0.02260675581866798
+Adjusted Nurse Aide Staffing Hours per Resident per Day,0.034544593552998805
+Adjusted LPN Staffing Hours per Resident per Day,0.018670106645085012
+Adjusted RN Staffing Hours per Resident per Day,0.024168125060253988
+Adjusted Total Nurse Staffing Hours per Resident per Day,0.024313080424306528
+Rating Cycle 1 Total Number of Health Deficiencies,0.033145513601303786
+Rating Cycle 1 Number of Standard Health Deficiencies,0.017802956112561892
+Rating Cycle 1 Number of Complaint Health Deficiencies,0.024932297338978532
+Rating Cycle 1 Health Deficiency Score,0.05583664919894445
+Rating Cycle 1 Number of Health Revisits,0.0045157282564857034
+Rating Cycle 1 Health Revisit Score,0.008075568109144643
+Rating Cycle 1 Total Health Score,0.06969824274999654
+Rating Cycle 2 Total Number of Health Deficiencies,0.01919313579373693
+Rating Cycle 2 Number of Standard Health Deficiencies,0.01716411947804619
+Rating Cycle 2 Number of Complaint Health Deficiencies,0.013686833997494421
+Rating Cycle 2 Health Deficiency Score,0.02390144841749462
+Rating Cycle 2 Number of Health Revisits,0.0024815925849547495
+Rating Cycle 2 Health Revisit Score,0.003948426732911103
+Rating Cycle 2 Total Health Score,0.026153442229959734
+Total Weighted Health Survey Score,0.062131888818228176
+Number of Facility Reported Incidents,0.03313953942475402
+Number of Substantiated Complaints,0.024662837083599568
+Number of Fines,0.011125437250131442
+Total Amount of Fines in Dollars,0.025460518622133645
+Number of Payment Denials,0.0038653902721266036
+Total Number of Penalties,0.009820372201976017
+Ownership Type_For profit - Individual,0.0015311801177302496
+Ownership Type_For profit - Limited Liability company,0.003902727703055427
+Ownership Type_For profit - Partnership,0.001459941504766926
+Ownership Type_Government - City,0.0
+Ownership Type_Government - City/county,0.0
+Ownership Type_Government - County,0.0019662443968119178
+Ownership Type_Government - Federal,0.0
+Ownership Type_Government - Hospital district,0.00043266480239814356
+Ownership Type_Government - State,0.0008384124542079299
+Ownership Type_Non profit - Church related,0.0005112443375255369
+Ownership Type_Non profit - Corporation,0.0032503042880065733
+Ownership Type_Non profit - Other,0.0012544490250092548
+Provider Type_Medicare and Medicaid,0.0010377422039543293
